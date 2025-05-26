@@ -18,7 +18,7 @@ class MainActivity : AppCompatActivity() {
     private val client = OkHttpClient()
 
     // Replace this with your NEW API key (create a new one since the old one was exposed)
-    private val apiKey = "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"
+    private val apiKey = "sk-YOUR_API_KEY"
 
     // Correct API endpoint for all OpenRouter models
     private val modelUrl = "https://openrouter.ai/api/v1/chat/completions"
