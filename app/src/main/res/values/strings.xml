@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Chat Bot</string>
+    <string name="hint_user_input">Type your message...</string>
+    <string name="send_button_desc">Send</string>
+    <string name="chat_welcome">Welcome! 👋\n\n</string>
+</resources>
